@@ -1,3 +1,27 @@
 body {
     padding-top: 5rem;
+    font-family: 'Garamond', serif;
+    font-size: 18px;
+}
+
+.required{
+    color: #ff0708;
+}
+
+.statement{
+    color: #30353a;
+}
+
+button{
+    background: #638eff;
+    color: white;
+    padding: 5px 30px;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+
+.flashes{
+    color:red;
+    font-size: 30px;
 }
