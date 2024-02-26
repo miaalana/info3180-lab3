@@ -5,7 +5,6 @@ from app import mail
 from flask_mail import Message
 from flask_mail import Mail
 
-mail = Mail(app)
 
 ###
 # Routing for your application.
