@@ -3,7 +3,6 @@ from flask import render_template, request, redirect, url_for, flash
 from app.forms import ContactForm
 from app import mail
 from flask_mail import Message
-from flask_mail import Mail
 
 
 ###
